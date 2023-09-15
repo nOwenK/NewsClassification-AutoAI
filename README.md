@@ -20,6 +20,7 @@ Sebelum bisa menggunakan servis utama IBM watsonx, ada beberapa servis yang haru
 ### Setup AutoAI
 Setelah mendaftarkan ketiga layanan di IBM cloud, langkah selanjutnya adalah mulai membuat machine learning secara otomatis menggunakan AutoAI.
 - [guideline.pdf](https://github.com/nOwenK/NewsClassification-AutoAI/blob/main/IBM%20Watsonx.ai%20-%20guideline.pdf)
+- [news_kompas.csv](https://github.com/nOwenK/NewsClassification-AutoAI/blob/main/news_kompas.csv)
 
 ## Hasil dan Analisis
 ### Hasil Pelatihan Model
