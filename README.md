@@ -3,7 +3,7 @@
 ## Latar Belakang
 Dalam era informasi yang begitu dinamis, akses cepat dan efisien ke berita adalah kebutuhan yang semakin mendesak. Dengan jumlah berita yang terus bertambah setiap hari, menyusun berita ke dalam kategori yang relevan adalah tugas yang memakan waktu. Oleh karena itu, proyek ini bertujuan untuk mengembangkan sebuah model Machine Learning yang mampu mengklasifikasikan berita berdasarkan judulnya ke dalam berbagai kategori.
 
-## Latar Belakang
+## Tujuan
 Laporan ini bertujuan untuk menjelaskan metode, proses, dan hasil dari proyek pengembangan model Machine Learning untuk mengklasifikasikan berita berdasarkan judulnya. Dengan laporan ini, dijelaskan bagaimana model machine learning yang dibuat menggunakan salah satu service di platform IBM, yaitu watsonx.ai AutoAI, yang dapat membantu pengguna media, berita antusias, dan developer dalam mengakses dan mengelola berita dengan lebih efisien.
 
 ## Implementasi
