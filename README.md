@@ -78,7 +78,7 @@ Precision recall curve berikut memiliki beberapa aspek untuk dianalisa:
 Precision-recall diatas diplot berdasarkan precision untuk sumbu y dan recall untuk sumbu x. Precision berarti bagian nilai positif yang diprediksi dengan benar, recall berarti bagian nilai positif aktual yang diprediksi sebagai positif.
 Jika nilai precision tinggi terhadap nilai recall yang rendah, berarti model tersebut tidak membuat banyak prediksi false positive. Tetapi jika nilai recall tinggi terhadap nilai precision yang tinggi, berarti model tersebut mengklasifikasi nilai positif dengan benar.
 
-#### Hasil Prediksi
+### Hasil Prediksi
 ![](https://github.com/nOwenK/NewsClassification-AutoAI/blob/main/images/1.PNG)
 
 Gambar diatas menunjukkan hasil prediksi untuk multi-class classification. Dari prediksi artikel berita tersebut, tampak beberapa judul berita masuk ke dalam salah satu dari beberapa kategori: regional, money, bola, properti, health, dll.
